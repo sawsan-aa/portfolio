@@ -221,4 +221,31 @@ export const projects: Project[] = [
         tools: ["React", "TypeScript", "Tailwind CSS", "Vite", "GitHub"],
         year: 2026,
     },
+    {
+        id: "14",
+        title: "Fighter Hanfu with Belt & Accessories",
+        category: "3d-art",
+        thumbnail: "projects/3D/Hanfu/thumbnail.png",
+        abstract: "A stylized fighter Hanfu outfit with belt and accessories, simulated in Marvelous Designer.",
+        description: "A 3D garment design project featuring a fighter-style Hanfu — traditional Chinese attire reimagined with a martial arts aesthetic — complete with a structured belt and decorative accessories.",
+        details: "This project explores traditional Chinese garment construction through the lens of digital simulation. Using Marvelous Designer, the Hanfu was built pattern by pattern, with careful attention to fabric weight, draping, and layering. The fighter interpretation introduces a fitted silhouette, a rigid belt that anchors the flowing outer layers, and accessories that reinforce the warrior aesthetic. The project focuses on the balance between historical garment accuracy and stylized design, as well as mastering Marvelous Designer's simulation tools for complex multi-layer clothing.",
+        tools: ["Marvelous Designer"],
+        year: 2025,
+        objectives: [
+            "Simulate realistic fabric draping and layering for a multi-piece traditional outfit",
+            "Accurately recreate the structure of a Hanfu using pattern-based garment construction",
+            "Design a belt and accessories that complement and contrast the flowing fabric",
+            "Explore the fusion of traditional Chinese fashion with a fighter/martial arts aesthetic",
+        ],
+        gallery: {
+            images: [
+                "projects/3D/Hanfu/render1.png",
+                "projects/3D/Hanfu/render2.png",
+                "projects/3D/Hanfu/render3.png",
+                "projects/3D/Hanfu/render4.png",
+                "projects/3D/Hanfu/render5.png",
+                "projects/3D/Hanfu/render6.png",
+            ],
+        },
+    },
 ];
