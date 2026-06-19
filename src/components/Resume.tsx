@@ -243,7 +243,7 @@ export default function Resume({ onNavigate }: ResumeProps) {
                             icon={<FiAward size={16} />}
                             title={t("resume.skills.design")}
                             category="design"
-                            skills={["3ds Max", "Substance 3D Painter", "Marmoset Toolbag", "Photoshop", "Canva", "Illustrator", "Inkscape", "Adobe Animate"]}
+                            skills={["3ds Max", "Marvelous 3D Designer", "Blender", "Substance 3D Painter", "Marmoset Toolbag", "Photoshop", "Canva", "Illustrator", "Inkscape", "Adobe Animate"]}
                         />
                         <SkillGroup
                             icon={<FiCode size={16} />}
